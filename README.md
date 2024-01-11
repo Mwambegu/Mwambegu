@@ -1,5 +1,18 @@
-### Hi there 👋
+# Installation
 
+```bash
+pip install foobar
+```
+## Installation
+
+```bash
+pip install foobar
+```
+### Installation
+
+```bash
+pip install foobar
+```
 <!--
 **Mwambegu/Mwambegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
